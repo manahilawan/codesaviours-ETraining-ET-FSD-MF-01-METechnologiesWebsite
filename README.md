@@ -1,4 +1,4 @@
-# ME Technologies Website — Emergency Starter
+# ME Technologies Website 
 
 A presentable starter for the ME Technologies internship project. It uses React + Vite for the frontend and Express for a small API scaffold.
 
